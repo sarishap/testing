@@ -1,0 +1,6 @@
+{
+"dbPassword":"vairav",
+"user":"user",
+"log-directories": {"var/log/config/firewall":"syslog","var/log/windows":"json"}
+
+}
